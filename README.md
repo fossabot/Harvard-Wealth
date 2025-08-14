@@ -1,4 +1,6 @@
 # Harvard-Wealth
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Finvisible-tech%2FHarvard-Wealth.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Finvisible-tech%2FHarvard-Wealth?ref=badge_shield)
+
 
 ## Overview
 Harvard Wealth Management (HWM) is a comprehensive wealth management platform designed to provide sophisticated financial management solutions. This platform offers tools and features for portfolio management, investment analysis, and wealth planning.
@@ -51,6 +53,9 @@ We welcome contributions to Harvard Wealth Management. Please follow these steps
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Finvisible-tech%2FHarvard-Wealth.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Finvisible-tech%2FHarvard-Wealth?ref=badge_large)
 
 ## Contact
 For any questions or concerns, please reach out to the development team.
